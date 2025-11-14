@@ -1,7 +1,9 @@
+
 # CSC 4101 - Group Project
 
 **This is an group assignment. You can up to 2 team member to work on this project.**
 71/71
+Collaborators: Cayden Anderson & Gabriel Kleinschmidt
 
 ## Introduction
 The goal of this project is to get you familiar with extend our programming language (CalcPL). 
